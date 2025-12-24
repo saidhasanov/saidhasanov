@@ -30,12 +30,7 @@ I am a results-driven developer focused on building secure, scalable, and effici
 
 ---
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saidhasanov&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidhasanov&layout=compact&theme=tokyonight" height="170" />
-</p>
----
+
 
 ### 📫 Connect with me:
 - **Email:** saidhesn0@gmail.com
