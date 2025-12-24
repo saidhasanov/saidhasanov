@@ -33,8 +33,8 @@ I am a results-driven developer focused on building secure, scalable, and effici
 ### 📊 GitHub Activity
 &nbsp;  
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=saitaga22&show_icons=true&theme=tokyonight" alt="Said's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitaga22&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=saidhasanov&show_icons=true&theme=tokyonight" alt="Said's GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidhasanov&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
 ---
