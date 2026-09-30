@@ -1,4 +1,4 @@
-# Hi there, I'm Səid Həsənov 👋 
+# Hi there, I'm Mammadov Said👋 
 
 ### 🛡️ Cybersecurity Enthusiast | 🚀 Full-Stack Developer
 
